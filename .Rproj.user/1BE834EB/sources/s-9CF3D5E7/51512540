@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531970986147.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "35323078",
+    "id" : "51512540",
+    "lastKnownWriteTime" : 1532021823,
+    "last_content_update" : 1532021823,
+    "path" : "~/TCGA Analysis/SNF.R",
+    "project_path" : "SNF.R",
+    "properties" : {
+        "cursorPosition" : "30,25",
+        "scrollLine" : "21"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

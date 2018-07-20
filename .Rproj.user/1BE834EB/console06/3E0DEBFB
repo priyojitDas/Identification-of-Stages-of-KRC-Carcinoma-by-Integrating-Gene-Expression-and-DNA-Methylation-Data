@@ -1,0 +1,10 @@
+]0;/home/priyojit/TCGA Analysis]0;priyojit@priyojitDas: ~/TCGA Analysis[01;32mpriyojit@priyojitDas[00m:[01;34m~/TCGA Analysis[00m$ [K]0;priyojit@priyojitDas: ~/TCGA Analysis[01;32mpriyojit@priyojitDas[00m:[01;34m~/TCGA Analysis[00m$ ls
+[0m[01;32mcombined.gexf[0m              [01;32mdata_mRNA_median_Zscores.txt[0m  [01;32mNullRemoval.py[0m
+[01;32mcombined.pdf[0m               [01;32mdata_mRNA_processed.csv[0m       [01;32mProcess.py[0m
+[01;32mdata_clinical.csv[0m          [01;32mLabel.csv[0m                     [01;32mSNF.R[0m
+[01;32mdata_clinical.txt[0m          [01;32mmethyl.gexf[0m                   [01;32mTCGA Analysis.Rproj[0m
+[01;32mdata_methylation_hm27.txt[0m  [01;32mmethyl.pdf[0m                    [01;32mW1.csv[0m
+[01;32mdata_methyl.csv[0m            [01;32mmRNA.gexf[0m                     [01;32mW2.csv[0m
+[01;32mdata_methyl_processed.csv[0m  [01;32mmRNA [Nodes].csv[0m              [01;32mWC.csv[0m
+[01;32mdata_mRNA.csv[0m              [01;32mmRNA.pdf[0m
+]0;/home/priyojit/TCGA Analysis]0;priyojit@priyojitDas: ~/TCGA Analysis[01;32mpriyojit@priyojitDas[00m:[01;34m~/TCGA Analysis[00m$ 
